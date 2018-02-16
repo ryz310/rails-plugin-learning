@@ -9,9 +9,9 @@ Gem::Specification.new do |s|
   s.version     = Yaffle::VERSION
   s.authors     = ["ryz310"]
   s.email       = ["ryz310@gmail.com"]
-  s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of Yaffle."
-  s.description = "TODO: Description of Yaffle."
+  s.homepage    = "https://github.com/ryz310/rails-plugin-learning"
+  s.summary     = "I tried rails plugin tutorial."
+  s.description = "See https://railsguides.jp/plugins.html"
   s.license     = "MIT"
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.md"]
